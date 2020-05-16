@@ -1,0 +1,8 @@
+.textfield{
+    display: block;
+}
+label > p{
+    margin: 0;
+    text-align: center;
+    
+}

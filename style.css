@@ -1,0 +1,54 @@
+<style>
+    body{
+        padding: 0;
+        margin:0;
+    }
+header{
+background-color: rgb(47, 45, 180);;
+
+padding:  5px 20px;
+
+}
+p.theName{
+display: inline;
+color: white;
+}
+
+button.button{
+float:right;
+}
+
+
+aside{
+display:inline-block;
+background: rgb(133, 133, 133);
+ width: 15%; 
+ height: 100%;
+ float:left;
+ display: static;
+ 
+
+}
+
+main{
+display:inline-block;
+width: 85%;
+}
+
+ul{
+list-style: none;
+padding: 0;
+}
+
+
+.menu-list > li{
+padding: 5px 20px;
+margin: -1px 0px 0px;
+border: 1px solid white;
+}
+.button-container {
+text-align: center;
+}
+
+
+</style>
